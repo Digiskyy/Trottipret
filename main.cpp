@@ -8,5 +8,5 @@ Main::Main(QWidget *parent) : QMainWindow(parent), ui(new Ui::Main)
 
 Main::~Main()
 {
-    delete ui;
+    delete ui;;
 }
